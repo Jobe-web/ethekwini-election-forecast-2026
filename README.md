@@ -4,6 +4,8 @@ An end-to-end machine learning and web analytics application developed to foreca
 
 ---
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ethekwini-election-forecast-2026.streamlit.app/)
+
 ## 1. Project Overview & Key Findings
 
 * **Scope:** Analyzes ward-level electoral data across eThekwini Municipality (2011, 2016, 2021 LGE cycles) to forecast 2026 ward outcomes.
